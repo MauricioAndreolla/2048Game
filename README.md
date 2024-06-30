@@ -1,4 +1,4 @@
-### 2048 (Jogo de console 2048 🎮)
+### Jogo de console 2048 🎮
 
 ![App](https://github.com/MauricioAndreolla/2048Game/assets/44854911/813015a1-c149-4993-b8a5-c83fa84e9553)
 
